@@ -1,0 +1,57 @@
+﻿<%@ Master Language="VB" AutoEventWireup="false" CodeBehind="App.master.vb" Inherits="La_Casa_del_Rincon_GuatemaltecoFinal.App" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>Rincon Guatemalteco</title>
+    <link rel="stylesheet" href="../../Content/milligram.min.css" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div class="container">
+
+  <div class="row">
+      <div class="column">
+        <a class="button" href="/app/inicio.aspx">Inicio</a>
+    </div>
+    <div class="column">
+        <a class="button" href="/app/facturacion.aspx">Comprar</a>
+    </div>
+    <div class="column">
+        <a class="button" href="/app/devolucion.aspx">Devoluciones</a>
+
+    </div>
+    <div class="column">
+        <a class="button" href="/app/clientes.aspx">Clientes</a>
+    </div>
+   
+      <div class="column">
+          <a class="button" href="/app/productos.aspx">Producto</a>
+      </div>
+       <div class="column">
+          <a class="button" href="/app/proveedor.aspx">Proveedor</a>
+      </div>
+      <div class="column">
+          <a class="button" href="/app/Reportes.aspx">Reporte de Venta</a>
+      </div>
+  </div>
+            <div class="column">
+          <a class="button" href="/app/Creausuario.aspx">Crear Usuario</a>
+      </div>
+  </div>
+
+
+
+    <div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+            </div>
+    </form>
+</body>
+</html>

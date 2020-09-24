@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="VB" Debug="true" Service="La_Casa_del_Rincon_GuatemaltecoFinal.webservice" CodeBehind="webservice.svc.vb" %>

@@ -1,0 +1,1012 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+LaCasadelRinconGuatemaltecoFinal
+</name>
+</assembly>
+<members>
+<member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.existencia.Stock">
+	<summary>
+Control Stock.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.inicio.lblcorreo">
+	<summary>
+Control lblcorreo.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.inicio.txtcorreo">
+	<summary>
+Control txtcorreo.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.Manage.SuccessMessagePlaceHolder">
+	<summary>
+ Control SuccessMessagePlaceHolder.
+ </summary>
+	<remarks>
+ Campo generado automáticamente.
+ Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+ </remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.Manage.setPassword">
+	<summary>
+ Control setPassword.
+ </summary>
+	<remarks>
+ Campo generado automáticamente.
+ Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+ </remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.Manage.password">
+	<summary>
+ contraseña de control.
+ </summary>
+	<remarks>
+ Campo generado automáticamente.
+ Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+ </remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.Manage.confirmPassword">
+	<summary>
+ Control confirmPassword.
+ </summary>
+	<remarks>
+ Campo generado automáticamente.
+ Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+ </remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.Manage.changePasswordHolder">
+	<summary>
+ Control changePasswordHolder.
+ </summary>
+	<remarks>
+ Campo generado automáticamente.
+ Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+ </remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.Manage.changePasswordUserName">
+	<summary>
+ Control changePasswordUserName.
+ </summary>
+	<remarks>
+ Campo generado automáticamente.
+ Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+ </remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.Manage.CurrentPasswordLabel">
+	<summary>
+ Control CurrentPasswordLabel.
+ </summary>
+	<remarks>
+ Campo generado automáticamente.
+ Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+ </remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.Manage.CurrentPassword">
+	<summary>
+ Control CurrentPassword.
+ </summary>
+	<remarks>
+ Campo generado automáticamente.
+ Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+ </remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.Manage.NewPasswordLabel">
+	<summary>
+ Control NewPasswordLabel.
+ </summary>
+	<remarks>
+ Campo generado automáticamente.
+ Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+ </remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.Manage.NewPassword">
+	<summary>
+ Control NewPassword.
+ </summary>
+	<remarks>
+ Campo generado automáticamente.
+ Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+ </remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.Manage.ConfirmNewPasswordLabel">
+	<summary>
+ Control ConfirmNewPasswordLabel.
+ </summary>
+	<remarks>
+ Campo generado automáticamente.
+ Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+ </remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.Manage.ConfirmNewPassword">
+	<summary>
+ Control ConfirmNewPassword.
+ </summary>
+	<remarks>
+ Campo generado automáticamente.
+ Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+ </remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.emitefactura.Label1">
+	<summary>
+Control Label1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.emitefactura.txtSerie">
+	<summary>
+Control txtSerie.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.emitefactura.Label2">
+	<summary>
+Control Label2.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.emitefactura.txtidpedido">
+	<summary>
+Control txtidpedido.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.emitefactura.lnkemitir">
+	<summary>
+Control lnkemitir.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.emitefactura.Registros">
+	<summary>
+Control Registros.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.fCierre.txtfecha">
+	<summary>
+Control txtfecha.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.fCierre.Label1">
+	<summary>
+Control Label1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.fCierre.DropListcliente">
+	<summary>
+Control DropListcliente.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.fCierre.Label4">
+	<summary>
+Control Label4.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.fCierre.txtnit">
+	<summary>
+Control txtnit.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.fCierre.Label5">
+	<summary>
+Control Label5.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.fCierre.txtvip">
+	<summary>
+Control txtvip.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.fCierre.Label2">
+	<summary>
+Control Label2.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.fCierre.DropListpago">
+	<summary>
+Control DropListpago.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.fCierre.lnkImprimir">
+	<summary>
+Control lnkImprimir.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.fCierre.lblTotal">
+	<summary>
+Control lblTotal.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.fCierre.Label3">
+	<summary>
+Control Label3.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.fCierre.Registros">
+	<summary>
+Control Registros.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.productos.Label1">
+	<summary>
+Control Label1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.productos.txtNombre">
+	<summary>
+Control txtNombre.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.productos.Label2">
+	<summary>
+Control Label2.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.productos.txtDepartamento">
+	<summary>
+Control txtDepartamento.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.productos.Label3">
+	<summary>
+Control Label3.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.productos.txtPrecio">
+	<summary>
+Control txtPrecio.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.productos.Label4">
+	<summary>
+Control Label4.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.productos.txtExistencia">
+	<summary>
+Control txtExistencia.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.productos.Label5">
+	<summary>
+Control Label5.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.productos.DropDownList1">
+	<summary>
+Control DropDownList1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.productos.lnkGuardar">
+	<summary>
+Control lnkGuardar.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.productos.Linknuevo">
+	<summary>
+Control Linknuevo.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.productos.Registros">
+	<summary>
+Control Registros.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.Creausuario.Label1">
+	<summary>
+Control Label1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.Creausuario.txtusuario">
+	<summary>
+Control txtusuario.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.Creausuario.Label2">
+	<summary>
+Control Label2.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.Creausuario.txtcontraseña2">
+	<summary>
+Control txtcontraseña2.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.Creausuario.Label3">
+	<summary>
+Control Label3.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.Creausuario.txtcodigoseg">
+	<summary>
+Control txtcodigoseg.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.Creausuario.lnkcrear">
+	<summary>
+Control lnkcrear.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.Creausuario.lnkborrar">
+	<summary>
+Control lnkborrar.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.Reportes.Registros">
+	<summary>
+Control Registros.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="P:La_Casa_del_Rincon_GuatemaltecoFinal.My.MyWebExtension.Computer">
+	<summary>
+ Devuelve información sobre el equipo host.
+ </summary>
+</member><member name="P:La_Casa_del_Rincon_GuatemaltecoFinal.My.MyWebExtension.User">
+	<summary>
+ Devuelve información del usuario web actual.
+ </summary>
+</member><member name="P:La_Casa_del_Rincon_GuatemaltecoFinal.My.MyWebExtension.Request">
+	<summary>
+ Devuelve un objeto Request.
+ </summary>
+</member><member name="P:La_Casa_del_Rincon_GuatemaltecoFinal.My.MyWebExtension.Response">
+	<summary>
+ Devuelve un objeto Response.
+ </summary>
+</member><member name="P:La_Casa_del_Rincon_GuatemaltecoFinal.My.MyWebExtension.Log">
+	<summary>
+ Devuelve el objeto de registro Asp.
+ </summary>
+</member><member name="T:La_Casa_del_Rincon_GuatemaltecoFinal.My.MyWebExtension">
+	<summary>
+ Módulo usado para definir las propiedades que están disponibles en el espacio de nombres My para proyectos web.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.RegisterExternalLogin.userName">
+	<summary>
+Control userName.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.clientes.Label1">
+	<summary>
+Control Label1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.clientes.txtNombres">
+	<summary>
+Control txtNombres.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.clientes.Label2">
+	<summary>
+Control Label2.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.clientes.txtApellidos">
+	<summary>
+Control txtApellidos.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.clientes.Label3">
+	<summary>
+Control Label3.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.clientes.txtnit">
+	<summary>
+Control txtnit.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.clientes.lnkGuardar">
+	<summary>
+Control lnkGuardar.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.clientes.Registros">
+	<summary>
+Control Registros.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.Register.ErrorMessage">
+	<summary>
+Control ErrorMessage.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.Register.UserNameCtrl">
+	<summary>
+Control UserNameCtrl.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.Register.Password">
+	<summary>
+Control de contraseña.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.Register.ConfirmPassword">
+	<summary>
+Control confirmPassword.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.proveedor.Label1">
+	<summary>
+Control Label1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.proveedor.txtNombres">
+	<summary>
+Control txtNombres.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.proveedor.Label2">
+	<summary>
+Control Label2.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.proveedor.txtDireccion">
+	<summary>
+Control txtDireccion.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.proveedor.Label3">
+	<summary>
+Control Label3.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.proveedor.txttelefono">
+	<summary>
+Control txttelefono.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.proveedor.lnkGuardar">
+	<summary>
+Control lnkGuardar.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.proveedor.Registros">
+	<summary>
+Control Registros.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.SiteMaster.MainContent">
+	<summary>
+Control MainContent.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.Login.ErrorMessage">
+	<summary>
+Control ErrorMessage.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.Login.FailureText">
+	<summary>
+Control FailureText.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.Login.UserName">
+	<summary>
+Control userName.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.Login.Password">
+	<summary>
+Control de contraseña.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.Login.RememberMe">
+	<summary>
+Control RememberMe.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.Login.RegisterHyperLink">
+	<summary>
+Control RegisterHyperLink.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.Login.OpenAuthLogin">
+	<summary>
+Control OpenAuthLogin.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.OpenAuthProviders.providerDetails">
+	<summary>
+Control providerDetails.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.devolucion.Facturas">
+	<summary>
+Control Facturas.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.Login1.form1">
+	<summary>
+Control form1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.Login1.lblusuario">
+	<summary>
+Control lblusuario.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.Login1.textusuario">
+	<summary>
+Control textusuario.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.Login1.Label1">
+	<summary>
+Control Label1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.Login1.textcontraseña">
+	<summary>
+Control textcontraseña.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.Login1.Accesar">
+	<summary>
+Control Accesar.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.Login1.Recucontra">
+	<summary>
+Control Recucontra.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.App.head">
+	<summary>
+Control head.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.App.form1">
+	<summary>
+Control form1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.App.ContentPlaceHolder1">
+	<summary>
+Control ContentPlaceHolder1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.facturacion.Label4">
+	<summary>
+Control Label4.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.facturacion.DropDownList1">
+	<summary>
+Control DropDownList1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.facturacion.Label1">
+	<summary>
+Control Label1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.facturacion.txtcantidad">
+	<summary>
+Control txtcantidad.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.facturacion.lnkagregar">
+	<summary>
+Control lnkagregar.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.facturacion.LinkButton1">
+	<summary>
+Control LinkButton1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.facturacion.Facturar">
+	<summary>
+Control Facturar.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.facturacion.Lknbotonvalida">
+	<summary>
+Control Lknbotonvalida.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.facturacion.lblTotal">
+	<summary>
+Control lblTotal.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.facturacion.Registros">
+	<summary>
+Control Registros.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.valida.form1">
+	<summary>
+Control form1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.valida.lblusu">
+	<summary>
+Control lblusu.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.valida.txtuser">
+	<summary>
+Control txtuser.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.valida.Lblcodva">
+	<summary>
+Control Lblcodva.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.valida.txtcod">
+	<summary>
+Control txtcod.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.valida.Validar">
+	<summary>
+Control Validar.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.valida.borrar">
+	<summary>
+Control borrar.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.valida.regresarlogin">
+	<summary>
+Control regresarlogin.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.valida.Usuarios">
+	<summary>
+Control Usuarios.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.Site_Mobile.Head1">
+	<summary>
+Control Head1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.Site_Mobile.HeadContent">
+	<summary>
+Control HeadContent.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.Site_Mobile.form1">
+	<summary>
+control form1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.Site_Mobile.FeaturedContent">
+	<summary>
+Control FeaturedContent.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.Site_Mobile.MainContent">
+	<summary>
+Control MainContent.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:La_Casa_del_Rincon_GuatemaltecoFinal.Site_Mobile.ViewSwitcher1">
+	<summary>
+Control ViewSwitcher1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+</members>
+</doc>
